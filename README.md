@@ -34,7 +34,7 @@ Install dependencies:
 npm install
 ```
 
-Run frotnend:
+Run frontend:
 
 ```
 npm start
