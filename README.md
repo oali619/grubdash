@@ -9,7 +9,7 @@ Open the `server` directory:
 cd server
 ```
 
-Install dependacies:
+Install dependencies:
 
 ```
 npm install
@@ -28,7 +28,7 @@ Open the `client` directory:
 cd client
 ```
 
-Install dependacies:
+Install dependencies:
 
 ```
 npm install
